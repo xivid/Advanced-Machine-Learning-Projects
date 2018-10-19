@@ -18,13 +18,11 @@ Omitted.
 
 ## Class Imbalance
 
-------
 Class | Samples
-------
+--- | --- 
 1 | 600
 2 | 3600
 3 | 600
-------
 
 ## Confusion Matrix
 
@@ -35,6 +33,7 @@ Simple accuracy is not a good metric for unbalanced dataset.
 BMCA = 1/C * Sigma\_{i=1 to C}_{TPR\_i}
 
 ## Normalized Confusion Matrix
+...
 
 ## How to deal with class imbalance?
 

@@ -1,0 +1,55 @@
+name: task4
+channels:
+  - anaconda
+  - conda-forge
+  - menpo
+  - defaults
+dependencies:
+  - libgcc-ng=8.2.0=hdf63c60_1
+  - libstdcxx-ng=8.2.0=hdf63c60_1
+  - pandas=0.23.4=py36h04863e7_0
+  - python-dateutil=2.7.5=py36_0
+  - pytz=2018.7=py36_0
+  - six=1.11.0=py36_1
+  - absl-py=0.6.1=py36_1000
+  - astor=0.7.1=py_0
+  - blas=1.1=openblas
+  - c-ares=1.15.0=h470a237_1
+  - ca-certificates=2018.10.15=ha4d7672_0
+  - certifi=2018.10.15=py36_1000
+  - gast=0.2.0=py_0
+  - grpcio=1.16.0=py36hd60e7a3_0
+  - libffi=3.2.1=hfc679d8_5
+  - libgfortran=3.0.0=1
+  - libgfortran-ng=7.2.0=hdf63c60_3
+  - libprotobuf=3.6.1=hd28b015_0
+  - markdown=2.6.11=py_0
+  - mkl_fft=1.0.6=py36_0
+  - mkl_random=1.0.2=py36_0
+  - ncurses=6.1=hfc679d8_1
+  - numpy=1.15.4=py36_blas_openblashb06ca3d_0
+  - openblas=0.3.3=ha44fe06_1
+  - openssl=1.0.2p=h470a237_1
+  - pip=18.1=py36_1000
+  - protobuf=3.6.1=py36hfc679d8_1
+  - python=3.6.6=h5001a0f_3
+  - readline=7.0=haf1bffa_1
+  - scikit-learn=0.20.0=py36_blas_openblash00c3548_201
+  - scipy=1.1.0=py36_blas_openblashb06ca3d_202
+  - setuptools=40.6.2=py36_0
+  - sk-video=1.1.10=pyh24bf2e0_4
+  - sqlite=3.25.3=hb1c47c0_0
+  - tensorboard=1.10.0=py36_0
+  - tensorflow=1.10.0=py36_0
+  - termcolor=1.1.0=py_2
+  - tk=8.6.9=ha92aebf_0
+  - werkzeug=0.14.1=py_0
+  - wheel=0.32.2=py36_0
+  - xz=5.2.4=h470a237_1
+  - zlib=1.2.11=h470a237_3
+  - intel-openmp=2019.0=118
+  - libopenblas=0.3.3=h5a2b251_3
+  - mkl=2019.0=118
+  - numpy-base=1.15.4=py36h2f8d375_0
+prefix: /home/luca/miniconda2/envs/task4
+
